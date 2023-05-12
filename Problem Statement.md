@@ -15,6 +15,6 @@ When S1 song is played -> S4,S2,S1
 Share your code via a git repo. 
 
 # EXPECTATIONS
-Pick any object oriented language of your choice to solve the problem
-Adhere to clean coding standards and principles. OOP is recommended (A sample list of coding conventions to refer https://www.browserstack.com/guide/coding-standards-best-practices)
-Write tests to validate the logic
+1. Pick any object oriented language of your choice to solve the problem
+2. Adhere to clean coding standards and principles. OOP is recommended (A sample list of coding conventions to refer https://www.browserstack.com/guide/coding-standards-best-practices)
+3. Write tests to validate the logic
